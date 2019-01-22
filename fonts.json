@@ -29,6 +29,16 @@
 	"rendering" : "vector",
 	"variants"  : ["regular", "condensed", "narrow"]
 },{
+	"alias"     : "amstrad",
+	"name"      : "Amstrad PC1512",
+	"author"    : "Amstrad, via VileR",
+	"year"      : 2016,
+	"website"   : "https://github.com/fitojb/anka-coder-fonts",
+	"ligatures" : false,
+	"style"     : "sans",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2y"]
+},{
 	"alias"     : "anonymous-pro",
 	"name"      : "Anonymous Pro",
 	"author"    : "Mark Simonson",

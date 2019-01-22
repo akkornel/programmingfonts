@@ -11,6 +11,12 @@
   src: url('../resources/agave/agave.ttf');
 }
 @font-face {
+  font-family: 'amstrad';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_AmstradPC1512.ttf');
+}
+@font-face {
   font-family: 'anka-coder';
   font-weight: bold;
   font-style: italic;
