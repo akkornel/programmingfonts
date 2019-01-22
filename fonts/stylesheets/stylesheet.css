@@ -542,13 +542,37 @@
   font-family: 'ibm-cgathin';
   font-weight: normal;
   font-style: normal;
-  src: url('../resources/oldschool/PxPlus_IBM_CGA.ttf');
+  src: url('../resources/oldschool/PxPlus_IBM_CGAthin.ttf');
+}
+@font-face {
+  font-family: 'ibm-ega8';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_IBM_EGA8.ttf');
+}
+@font-face {
+  font-family: 'ibm-ega9';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_IBM_EGA9.ttf');
 }
 @font-face {
   font-family: 'ibm-mda';
   font-weight: normal;
   font-style: normal;
   src: url('../resources/oldschool/PxPlus_IBM_MDA.ttf');
+}
+@font-face {
+  font-family: 'ibm-vga8';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_IBM_VGA8.ttf');
+}
+@font-face {
+  font-family: 'ibm-vga9';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_IBM_VGA9.ttf');
 }
 @font-face {
   font-family: 'iosevka';
