@@ -323,7 +323,7 @@
 	"rendering" : "vector"
 },{
 	"alias"     : "ibm-bios",
-	"name"      : "IBM BIOS",
+	"name"      : "IBM PC BIOS",
 	"author"    : "IBM, via VileR",
 	"year"      : 2016,
 	"website"   : "https://int10h.org/oldschool-pc-fonts/",
