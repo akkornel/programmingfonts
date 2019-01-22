@@ -381,6 +381,26 @@
 	"style"     : "serif",
 	"rendering" : "vector"
 },{
+	"alias"     : "ibm-vga8",
+	"name"      : "IBM VGA 8x16 Video ROM",
+	"author"    : "IBM, via VileR",
+	"year"      : 2016,
+	"website"   : "https://int10h.org/oldschool-pc-fonts/",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2x"]
+},{
+	"alias"     : "ibm-vga9",
+	"name"      : "IBM VGA 9x16 Video ROM",
+	"author"    : "IBM, via VileR",
+	"year"      : 2016,
+	"website"   : "https://int10h.org/oldschool-pc-fonts/",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2x"]
+},{
 	"alias"     : "inconsolata",
 	"name"      : "Inconsolata",
 	"author"    : "Raph Levien",
