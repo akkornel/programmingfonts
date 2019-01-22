@@ -539,6 +539,12 @@
   src: url('../resources/oldschool/PxPlus_IBM_CGA.ttf');
 }
 @font-face {
+  font-family: 'ibm-cgathin';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_IBM_CGAthin.ttf');
+}
+@font-face {
   font-family: 'ibm-mda';
   font-weight: normal;
   font-style: normal;
