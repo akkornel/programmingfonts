@@ -1073,6 +1073,18 @@
   src: url('../resources/sudo/sudo.ttf');
 }
 @font-face {
+  font-family: 'tandynew-225';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_TandyNew_225.ttf');
+}
+@font-face {
+  font-family: 'tandynew-tv';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_TandyNew_TV.ttf');
+}
+@font-face {
   font-family: 'tex-gyre-cursor';
   font-weight: bold;
   font-style: italic;
