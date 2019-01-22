@@ -69,6 +69,15 @@
 	"rendering" : "vector",
 	"variants"  : ["regular"]
 },{
+	"alias"     : "vga-square",
+	"name"      : "AST Premium Exec DOS (Square-pixel VGA)",
+	"author"    : "AST, via VileR",
+	"year"      : 2010,
+	"website"   : "https://github.com/fitojb/anka-coder-fonts",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector"
+},{
 	"alias"     : "aurulent",
 	"name"      : "Aurulent Sans Mono",
 	"author"    : "Stephen G. Hartke",

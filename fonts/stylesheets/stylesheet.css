@@ -1175,6 +1175,12 @@
   src: url('../resources/verily/verily.woff');
 }
 @font-face {
+  font-family: 'vga-square';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_VGA_SquarePx.ttf');
+}
+@font-face {
   font-family: 'vt323';
   font-weight: normal;
   font-style: normal;
