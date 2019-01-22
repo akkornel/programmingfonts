@@ -11,6 +11,12 @@
   src: url('../resources/agave/agave.ttf');
 }
 @font-face {
+  font-family: 'amstrad';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_AmstradPC1512.ttf');
+}
+@font-face {
   font-family: 'anka-coder';
   font-weight: bold;
   font-style: italic;
@@ -1073,6 +1079,18 @@
   src: url('../resources/sudo/sudo.ttf');
 }
 @font-face {
+  font-family: 'tandynew-225';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_TandyNew_225.ttf');
+}
+@font-face {
+  font-family: 'tandynew-tv';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_TandyNew_TV.ttf');
+}
+@font-face {
   font-family: 'tex-gyre-cursor';
   font-weight: bold;
   font-style: italic;
@@ -1155,6 +1173,12 @@
   font-weight: normal;
   font-style: normal;
   src: url('../resources/verily/verily.woff');
+}
+@font-face {
+  font-family: 'vga-square';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_VGA_SquarePx.ttf');
 }
 @font-face {
   font-family: 'vt323';

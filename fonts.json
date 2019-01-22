@@ -29,6 +29,16 @@
 	"rendering" : "vector",
 	"variants"  : ["regular", "condensed", "narrow"]
 },{
+	"alias"     : "amstrad",
+	"name"      : "Amstrad PC1512",
+	"author"    : "Amstrad, via VileR",
+	"year"      : 2016,
+	"website"   : "https://github.com/fitojb/anka-coder-fonts",
+	"ligatures" : false,
+	"style"     : "sans",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2y"]
+},{
 	"alias"     : "anonymous-pro",
 	"name"      : "Anonymous Pro",
 	"author"    : "Mark Simonson",
@@ -725,6 +735,26 @@
 	"style"     : "sans",
 	"rendering" : "vector"
 },{
+	"alias"     : "tandynew-225",
+	"name"      : "Late-Gen Tandy, 8x9",
+	"author"    : "Tandy, via VileR",
+	"year"      : 2016,
+	"website"   : "https://int10h.org/oldschool-pc-fonts/",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2y"]
+},{
+	"alias"     : "tandynew-tv",
+	"name"      : "Late-Gen Tandy, 8x8",
+	"author"    : "Tandy, via VileR",
+	"year"      : 2016,
+	"website"   : "https://int10h.org/oldschool-pc-fonts/",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2y"]
+},{
 	"alias"     : "tex-gyre-cursor",
 	"name"      : "TeX Gyre Cursor",
 	"author"    : "GUST e-foundry",
@@ -769,6 +799,16 @@
 	"ligatures" : false,
 	"style"     : "serif",
 	"rendering" : "vector"
+},{
+	"alias"     : "vga-square",
+	"name"      : "AST Premium Exec DOS (Square-pixel VGA)",
+	"author"    : "AST, via VileR",
+	"year"      : 2010,
+	"website"   : "https://github.com/fitojb/anka-coder-fonts",
+	"ligatures" : false,
+	"style"     : "sans",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2y"]
 },{
 	"alias"     : "vt323",
 	"name"      : "VT323",
