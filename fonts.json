@@ -323,7 +323,7 @@
 	"rendering" : "vector"
 },{
 	"alias"     : "ibm-bios",
-	"name"      : "IBM BIOS",
+	"name"      : "IBM PC BIOS",
 	"author"    : "IBM, via VileR",
 	"year"      : 2016,
 	"website"   : "https://int10h.org/oldschool-pc-fonts/",
@@ -333,7 +333,7 @@
 	"variants"  : ["regular", "2x", "2y"]
 },{
 	"alias"     : "ibm-cga",
-	"name"      : "IBM CGA",
+	"name"      : "IBM CGA Video ROM",
 	"author"    : "IBM, via VileR",
 	"year"      : 2016,
 	"website"   : "https://int10h.org/oldschool-pc-fonts/",
@@ -341,6 +341,25 @@
 	"style"     : "serif",
 	"rendering" : "vector",
 	"variants"  : ["regular", "2y"]
+},{
+	"alias"     : "ibm-cgathin",
+	"name"      : "IBM CGA Video ROM, thin",
+	"author"    : "IBM, via VileR",
+	"year"      : 2016,
+	"website"   : "https://int10h.org/oldschool-pc-fonts/",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2y"]
+},{
+	"alias"     : "ibm-mda",
+	"name"      : "IBM MDA Video ROM",
+	"author"    : "IBM, via VileR",
+	"year"      : 2016,
+	"website"   : "https://int10h.org/oldschool-pc-fonts/",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector"
 },{
 	"alias"     : "inconsolata",
 	"name"      : "Inconsolata",
