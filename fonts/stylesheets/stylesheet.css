@@ -533,6 +533,12 @@
   src: url('../resources/oldschool/PxPlus_IBM_BIOS.ttf');
 }
 @font-face {
+  font-family: 'ibm-cga';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_IBM_CGA.ttf');
+}
+@font-face {
   font-family: 'iosevka';
   font-weight: normal;
   font-style: normal;
