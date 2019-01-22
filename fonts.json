@@ -352,6 +352,26 @@
 	"rendering" : "vector",
 	"variants"  : ["regular", "2y"]
 },{
+	"alias"     : "ibm-ega8",
+	"name"      : "IBM EGA 8x14 Video ROM",
+	"author"    : "IBM, via VileR",
+	"year"      : 2016,
+	"website"   : "https://int10h.org/oldschool-pc-fonts/",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2x"]
+},{
+	"alias"     : "ibm-ega9",
+	"name"      : "IBM EGA 9x14 Video ROM",
+	"author"    : "IBM, via VileR",
+	"year"      : 2016,
+	"website"   : "https://int10h.org/oldschool-pc-fonts/",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2x"]
+},{
 	"alias"     : "ibm-mda",
 	"name"      : "IBM MDA Video ROM",
 	"author"    : "IBM, via VileR",

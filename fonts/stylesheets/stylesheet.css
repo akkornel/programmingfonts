@@ -545,6 +545,18 @@
   src: url('../resources/oldschool/PxPlus_IBM_CGAthin.ttf');
 }
 @font-face {
+  font-family: 'ibm-ega8';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_IBM_EGA8.ttf');
+}
+@font-face {
+  font-family: 'ibm-ega9';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_IBM_EGA9.ttf');
+}
+@font-face {
   font-family: 'ibm-mda';
   font-weight: normal;
   font-style: normal;
