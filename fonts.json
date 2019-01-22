@@ -333,7 +333,7 @@
 	"variants"  : ["regular", "2x", "2y"]
 },{
 	"alias"     : "ibm-cga",
-	"name"      : "IBM CGA",
+	"name"      : "IBM CGA Video ROM",
 	"author"    : "IBM, via VileR",
 	"year"      : 2016,
 	"website"   : "https://int10h.org/oldschool-pc-fonts/",
