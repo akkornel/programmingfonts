@@ -324,7 +324,7 @@
 },{
 	"alias"     : "ibm-bios",
 	"name"      : "IBM BIOS",
-	"author"    : "VileR",
+	"author"    : "IBM, via VileR",
 	"year"      : 2016,
 	"website"   : "https://int10h.org/oldschool-pc-fonts/",
 	"ligatures" : false,
@@ -334,7 +334,7 @@
 },{
 	"alias"     : "ibm-cga",
 	"name"      : "IBM CGA",
-	"author"    : "VileR",
+	"author"    : "IBM, via VileR",
 	"year"      : 2016,
 	"website"   : "https://int10h.org/oldschool-pc-fonts/",
 	"ligatures" : false,
