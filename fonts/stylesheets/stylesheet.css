@@ -527,6 +527,12 @@
   src: url('../resources/hermit/hermit.otf');
 }
 @font-face {
+  font-family: 'ibm-bios';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../resources/oldschool/PxPlus_IBM_BIOS.ttf');
+}
+@font-face {
   font-family: 'iosevka';
   font-weight: normal;
   font-style: normal;

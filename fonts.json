@@ -322,6 +322,16 @@
 	"style"     : "sans",
 	"rendering" : "vector"
 },{
+	"alias"     : "ibm-bios",
+	"name"      : "IBM BIOS",
+	"author"    : "VileR",
+	"year"      : 2016,
+	"website"   : "https://int10h.org/oldschool-pc-fonts/",
+	"ligatures" : false,
+	"style"     : "serif",
+	"rendering" : "vector",
+	"variants"  : ["regular", "2x", "2y"]
+},{
 	"alias"     : "inconsolata",
 	"name"      : "Inconsolata",
 	"author"    : "Raph Levien",
